@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+gem 'reportbuilder', '~> 1.4'
+gem 'spreadsheet', '~> 1.1.1'
+gem 'daru'
+gem 'daru-io'
+gem 'roo', '~> 2.7.0'
+
+# Specify the needed backports
+#gem 'backports', '>= 3.6.8', '<= 3.15.0'
+#gem 'backports/latest' # If you need all backports
